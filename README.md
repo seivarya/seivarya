@@ -10,7 +10,4 @@
 
 
 [![header](https://raw.githubusercontent.com/seivarya/seivarya/refs/heads/master/assets/banner.png)](https://youtu.be/QDia3e12czc?si=YRT-OtIMU5marT2H)<br/>
-<div align="center">
-<a href="https://wallhaven.cc/w/9orv7w">source</a>
-</div>
 
