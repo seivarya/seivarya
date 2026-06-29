@@ -1,6 +1,6 @@
 <samp>
 <a href="https://seivarya.in/">www</a> ::
-<a href="https://discord.gg/8XNHFDXpeW">server</a> ::
+<a href="https://discord.gg/w2kqm5xjap">server</a> ::
 <a href="mailto:seivarya.he@gmail.com">email</a> ::
 <a href="https://x.com/seivarya">x.com</a>
 <br/><br/>
