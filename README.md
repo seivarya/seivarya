@@ -9,5 +9,5 @@
 </samp>
 
 
-[![header](https://raw.githubusercontent.com/seivarya/seivarya/refs/heads/master/assets/banner.png)](https://youtu.be/QDia3e12czc?si=YRT-OtIMU5marT2H)<br/>
+[![header](https://raw.githubusercontent.com/seivarya/seivarya/refs/heads/master/assets/frieren.jpg)](https://open.spotify.com/track/3gdewACMIVMEWVbyb8O9sY?si=796ab026284e40df)<br/>
 
